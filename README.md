@@ -1,62 +1,57 @@
-<h1 align="center">Hi 👋, I'm Urwah</h1>
-<h3 align="center">A passionate 14-year-old Developer from Gorontalo, Indonesia</h3>
+<h1 align="center" style="color: #ff69b4; text-shadow: 0 0 8px #ff69b4;">👋 Halo, Saya Urwah Yunus</h1>
+<h3 align="center" style="color: #888;">Seorang Remaja 14 Tahun yang Gemar Belajar dan Berkarya di Dunia Pemrograman</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nimendp&label=Profile%20views&color=0e75b6&style=flat" alt="nimendp" />
+  <img src="https://komarev.com/ghpvc/?username=nimendp&label=Pengunjung+Profil&color=ff69b4&style=flat" alt="Pengunjung Profil" />
 </p>
 
 ---
 
-### 🌟 About Me
-- 🔭 I’m currently working on **[My Personal Portfolio](https://urwah.surge.sh)** — a place to showcase my projects & skills.
-- 🌱 I’m currently learning **Python scripting & automation**.
-- 🤝 I’m looking to collaborate on **Social Media & Discord Bots**.
-- 💬 Ask me about **my experience learning coding at 14** — I’d love to share!
-- 📫 Reach me at **yunusurwah8@gmail.com**
-- ⚡ Fun fact: **I enjoy coding with AI tools 🤖✨**
+### 🌟 Tentang Saya
+- 🔭 **Sedang fokus mengerjakan:** [Portofolio Sederhana](https://urwah.surge.sh) — Memperkenalkan proyek dan kemampuan saya.
+- 🌱 **Sedang belajar:** Python, Scripting, dan Otomatisasi.
+- 🤝 **Tertarik berkolaborasi:** Proyek bot media sosial & komunitas.
+- 💬 **Tanya saya soal:** Pengalaman belajar pemrograman sejak usia 14.
+- 📧 **Hubungi saya di:** yunusurwah8@gmail.com
+- ⚡ **Fakta unik:** Saya senang memprogram dibantu AI dan belajar teknik baru setiap hari!
 
 ---
 
-### 📂 My Work
-- 🧑‍💻 Portfolio: [https://urwah.surge.sh](https://urwah.surge.sh)
-- 🤖 WhatsApp Bot: *project link coming soon*
-- 🎮 Discord Bot: *project link coming soon*
-- 🌱 RedSim Simulasi: *project link coming soon*
-
----
-
-### 💻 Skills
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" title="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" title="CSS" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" title="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" title="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" title="Tailwind CSS" />
+### 💻 Keahlian dan Alat
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50" title="HTML5" style="filter: drop-shadow(0 0 6px #ff69b4);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50" title="CSS3" style="filter: drop-shadow(0 0 6px #ff69b4);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" title="JavaScript" style="filter: drop-shadow(0 0 6px #ff69b4);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" title="Python" style="filter: drop-shadow(0 0 6px #ff69b4);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" title="React" style="filter: drop-shadow(0 0 6px #ff69b4);" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" title="TailwindCSS" style="filter: drop-shadow(0 0 6px #ff69b4);" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/urwahyunus" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/nimendp" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40" alt="Instagram" /></a>
-  <a href="https://www.youtube.com/c/nimendp" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="40" height="40" alt="YouTube" /></a>
-  <a href="https://www.hackerrank.com/nimendp" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40" alt="HackerRank" /></a>
+### 📊 Statistik GitHub
+<p align="center">
+  <img style="border-radius: 12px; box-shadow: 0 0 15px #ff69b4;" src="https://github-readme-stats.vercel.app/api?username=nimendp&show_icons=true&theme=radical" width="400" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nimendp&show_icons=true&theme=radical" height="180" alt="nimendp stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimendp&layout=compact&theme=radical" height="180" alt="nimendp top languages" />
+### 🌐 Terhubung Dengan Saya
+<p align="center">
+  <a href="https://www.linkedin.com/in/urwahyunus" target="_blank"><img style="filter: drop-shadow(0 0 8px #ff69b4);" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/nimendp" target="_blank"><img style="filter: drop-shadow(0 0 8px #ff69b4);" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/c/nimendp" target="_blank"><img style="filter: drop-shadow(0 0 8px #ff69b4);" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube"/></a>
+  <a href="https://www.hackerrank.com/nimendp" target="_blank"><img style="filter: drop-shadow(0 0 8px #ff69b4);" width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank"/></a>
 </p>
 
 ---
 
-### 💜 Support
-<p>
-  <a href="https://www.buymeacoffee.com/Urwah"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200" alt="Buy me a coffee" /></a>
-  <a href="https://ko-fi.com/Nimendp"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="200" alt="Support on Ko-fi" /></a>
+### 💜 Dukungan
+<p align="center">
+  <a href="https://www.buymeacoffee.com/Urwah"><img style="border-radius: 10px; box-shadow: 0 0 12px #ff69b4;" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" alt="Buy me a coffee"/></a>
+  <a href="https://ko-fi.com/Nimendp"><img style="border-radius: 10px; box-shadow: 0 0 12px #ff69b4;" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" width="200" alt="Support on Ko-fi"/></a>
 </p>
+
+---
+
+<p align="center" style="color: #ff69b4;">✨ Terima kasih sudah mampir ke profil saya. Semoga bisa berkolaborasi di masa depan! ✨</p>
