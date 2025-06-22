@@ -1,20 +1,23 @@
+<!-- === Banner === -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=ff69b4&lines=Halo+👋,+Saya+Urwah+Yunus;Remaja+14+Tahun+dari+Gorontalo;Seorang+Programmer+Muda" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/nimendp/nimendp/main/banner.png" width="100%" alt="Banner Urwah Yunus" />
 </h1>
 
-<h3 align="center" style="color:#999;">Seorang remaja berusia 14 tahun, bersemangat dalam belajar dan berkreasi di dunia coding 🚀</h3>
+<h3 align="center">Hi 👋, Saya Urwah Yunus — Remaja 14 Tahun dari Gorontalo </h3>
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=nimendp&label=Pengunjung+Profil&color=ff69b4&style=flat" alt="Pengunjung Profil"/></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nimendp&color=ff69b4&style=flat" alt="Pengunjung Profil" />
+</p>
 
 ---
 
-### 🌟 Tentang Saya
+### ✨ Tentang Saya
 - 🔭 **Sedang mengerjakan:** [Portofolio Web Interaktif](https://urwah.surge.sh)
-- 🌱 **Sedang belajar:** Python scripting, bot development, dan desain UI.
-- 🤝 **Tertarik kolaborasi:** Proyek bot sosial media, game interaktif, dan tools keamanan.
-- 💬 **Tanya saya soal:** Pengalaman belajar coding sejak umur 14 tahun.
+- 🌱 **Sedang belajar:** Python scripting & automation
+- 🤝 **Ingin kolaborasi:** Proyek bot sosial media, game sederhana, tools keamanan
+- 💬 **Tanya saya soal:** Coding sejak usia 14 dan belajar otodidak
 - 📧 **Kontak:** yunusurwah8@gmail.com
-- ⚡ **Fakta unik:** Suka membuat kode kreatif dan belajar hal baru setiap hari.
+- ⚡ **Fakta unik:** Suka membuat kode kreatif dan belajar banyak dari AI 🤖
 
 ---
 
@@ -30,14 +33,9 @@
 
 ---
 
-### ✨ Kutipan
-> 💡 _"Belajarlah seperti kamu akan hidup selamanya. Bermimpilah seperti kamu akan mati hari ini."_ — Mahatma Gandhi
-
----
-
-### 🐍 Snake Contribution
+### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/nimendp/nimendp/blob/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github.com/nimendp/nimendp/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
@@ -51,16 +49,26 @@
 
 ### 🌍 Visitor Globe
 <p align="center">
-  <img src="https://github-profile-visitor-globe.glitch.me/globe/nimendp" width="400" style="box-shadow:0 0 15px #ff69b4;" />
+  <img src="https://github-profile-visitor-globe.glitch.me/globe/nimendp" width="400" style="box-shadow:0 0 12px #ff69b4;" />
 </p>
 
 ---
 
 ### 📊 Statistik GitHub
 <p align="center">
-  <img style="box-shadow:0 0 15px #ff69b4;" src="https://github-readme-stats.vercel.app/api?username=nimendp&show_icons=true&theme=radical" width="400" />
+  <img style="box-shadow:0 0 12px #ff69b4;" src="https://github-readme-stats.vercel.app/api?username=nimendp&show_icons=true&theme=radical" width="400" />
   <br><br>
-  <img style="box-shadow:0 0 15px #ff69b4;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimendp&layout=compact&theme=radical" width="300" />
+  <img style="box-shadow:0 0 12px #ff69b4;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nimendp&layout=compact&theme=radical" width="300" />
+</p>
+
+---
+
+### 🌐 Terhubung Dengan Saya
+<p align="center">
+  <a href="https://www.linkedin.com/in/urwahyunus" target="_blank"><img width="40" style="filter: drop-shadow(0 0 8px #ff69b4);" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/nimendp" target="_blank"><img width="40" style="filter: drop-shadow(0 0 8px #ff69b4);" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram"/></a>
+  <a href="https://www.youtube.com/c/nimendp" target="_blank"><img width="40" style="filter: drop-shadow(0 0 8px #ff69b4);" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube"/></a>
+  <a href="https://www.hackerrank.com/nimendp" target="_blank"><img width="40" style="filter: drop-shadow(0 0 8px #ff69b4);" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank"/></a>
 </p>
 
 ---
@@ -73,4 +81,4 @@
 
 ---
 
-<p align="center" style="color:#ff69b4;text-shadow:0 0 8px #ff69b4;">✨ Terima kasih sudah berkunjung! Mari belajar dan berkreasi bersama. 🚀💜</p>
+<p align="center" style="color:#ff69b4;text-shadow:0 0 8px #ff69b4;">✨ Terima kasih sudah berkunjung! Semoga bisa berkolaborasi dan belajar bersama 🚀💜</p>
