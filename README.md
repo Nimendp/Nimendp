@@ -1,14 +1,7 @@
 <!-- === Banner Header === -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nimendp/nimendp/github-header-image.png" alt="Banner Header" width="100%" style="border-radius:12px;" />
+  <img src="https://raw.githubusercontent.com/nimendp/nimendp/main/github-header-image.png" alt="Banner Header" width="100%" style="border-radius:12px;" />
 </p>
-
-<!-- Kemudian konten lain di bawahnya -->
-<p align="center">Hi👋, I'm Urwah Yunus</p>
-
-...
-
-
 
 <p align="center">Hi👋, I'm Urwah Yunus</p>
 
